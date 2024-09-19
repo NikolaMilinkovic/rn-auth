@@ -8,7 +8,13 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#1e1e1e",
+      "ios": {
+        "backgroundColor": "#1e1e1e"
+      },
+      "android": {
+        "backgroundColor": "#1e1e1e"
+      }
     },
     "updates": {
       "fallbackToCacheTimeout": 0
